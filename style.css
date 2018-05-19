@@ -1,0 +1,58 @@
+h2, a{
+  font-family: 'Lato', sans-serif;
+}
+
+h2{
+  font-size: 50px;
+}
+
+p{
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+}
+
+#full-page{
+  height: 100% !important;
+  width: 100% !important;
+}
+
+.container-fluid {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+#home {
+/*   background-color: #00B274; */
+  align-content: center;
+  padding-top: 200px;
+  background-image: url("https://images.pexels.com/photos/399160/pexels-photo-399160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#portfolio {
+  background-image: url("https://images.pexels.com/photos/242236/pexels-photo-242236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#contact {
+  background-image: url("https://lh4.googleusercontent.com/WPGLUfRKjoTzcSIJ_cYZ69MT7SM5J2zpK-d1MY7BYAprsBOE6UONwC0ue0eRT0lZ0GgnjsTpyhPMbMZObN53=w2364-h1222-rw");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+nav {
+  opacity: 0.9;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+section{
+  padding: 90px;
+  height: 900px;
+  text-align: center;
+}
+
+.profilepic {
+  border-radius: 50%;
+  max-height: 260px;
+}
