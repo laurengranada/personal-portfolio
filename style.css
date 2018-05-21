@@ -3,10 +3,10 @@ h2, a{
 }
 
 h2{
-  font-size: 50px;
+  font-size: 50px !important;
 }
 
-p{
+p, h3{
   font-family: 'Raleway', sans-serif;
   font-size: 20px;
 }
@@ -35,9 +35,10 @@ p{
   background-repeat: no-repeat;
 }
 #contact {
-  background-image: url("https://lh4.googleusercontent.com/WPGLUfRKjoTzcSIJ_cYZ69MT7SM5J2zpK-d1MY7BYAprsBOE6UONwC0ue0eRT0lZ0GgnjsTpyhPMbMZObN53=w2364-h1222-rw");
+  background-image: url("https://images.pexels.com/photos/97078/pexels-photo-97078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
   background-size: cover;
   background-repeat: no-repeat;
+  padding-left: 50% !important;
 }
 
 nav {
@@ -49,10 +50,19 @@ nav {
 section{
   padding: 90px;
   height: 900px;
-  text-align: center;
+  text-align: center !important;
 }
 
 .profilepic {
   border-radius: 50%;
   max-height: 260px;
 }
+
+.thumbnail img{
+  max-height: 200px;
+}
+
+.contact-font{
+  color: white;
+}
+
