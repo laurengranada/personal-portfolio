@@ -66,3 +66,8 @@ section{
   color: white;
 }
 
+
+/*mobile friendly*/
+@media screen and (max-width: 760px) {
+  }
+
