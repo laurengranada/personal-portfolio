@@ -69,5 +69,51 @@ section{
 
 /*mobile friendly*/
 @media screen and (max-width: 760px) {
+  #home{
+    padding-top: 100px !important;
   }
 
+  #portfolio{
+    padding-top: 50px !important;
+    height: 1200px !important;
+  }
+
+  #contact{
+    text-align: center !important;
+    padding-left: 90px !important;
+    padding-top: 70px !important;
+  }
+
+  .contact-font{
+    text-shadow: 1px 1px 2px black;
+  }
+  }
+
+@media screen and (max-width: 1024px) {
+  #home{
+    padding-top: 100px !important;
+  }
+  
+  #portfolio{
+    padding-top: 50px !important;
+    height: 1400px !important;
+  }
+  
+  #contact{
+    text-align: center !important;
+    padding-left: 90px !important;
+    padding-top: 70px !important;
+  }
+
+  .contact-font{
+    text-shadow: 1px 1px 2px black;
+  }
+
+  .thumbnail{
+    width: 300px;
+  }
+
+  .col-md-6{
+    padding-left: 155px;
+  }
+}
