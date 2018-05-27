@@ -7,4 +7,4 @@
 ### Overview
 freecodecamp's project for frontend certification. Had to re-create the example given with the following parameters:
 
-<img src="https://github.com/laurengranada/personal-portfolio/blob/master/read-images/freecodecamp.png" width="300">
+<img src="https://github.com/laurengranada/personal-portfolio/blob/master/read-images/freecodecamp.png" width="500">
